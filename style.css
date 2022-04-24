@@ -1,0 +1,117 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 2em;
+    background-color: #EFFFFD;
+}
+.logo-img{
+    position: fixed;
+    width: 8%;
+    left: 30px;
+    top: 30px;
+}
+h1{
+    margin: 0px ;
+    height: 200pxx;
+    font-family: 'sacramento',cursive;
+    font-size: 6rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+P{
+    font-size: 1rem;
+    color: #40514E;
+}
+h2{
+font-size: 2.5rem;    
+margin: 0px;
+color: #66BFBF;
+font-weight: normal;
+}
+h3,a{
+    color: #11999E;
+}
+hr{
+    border: none;
+    border-top: 10px dotted #11999E;
+    width: 10%;
+}
+.top-container{
+    background-color: #EFFFFD;
+    padding: 100px;
+    position: relative;
+}
+.top-cloud{
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    top: 250px;
+    left: 250px;
+}
+.middle-container{
+margin-bottom: 100px;
+}
+
+.skills{
+    margin-top: 100px ;
+}
+
+.profile{
+    margin: 50px;
+}
+.profile-img{
+    width: 15%;
+    margin-bottom: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+.python-img{
+float: left;
+margin-right: 30px;
+}
+.web-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+}
+.contact-me{
+    margin-top: 150px;
+}
+.contact-me h3{
+    font-size: 1rem;
+    margin: 50px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 30px;
+}
+.btn{
+    color: white;
+    background:linear-gradient(#11ccd4,#11999e);
+    text-decoration:none ;
+    border: #11999E;
+    border: 8px;
+    padding: 6px 10px;
+    border-radius: 10px;
+    
+}
+.btn:hover{
+    background: linear-gradient(#30e3cb,#2bc4ad);
+}
+.footer-link{
+    text-decoration:none ;
+}
+.copyright{
+    margin-bottom: 0px;
+    color: #EAF6F6;
+}
