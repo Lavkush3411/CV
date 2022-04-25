@@ -62,10 +62,16 @@ margin-bottom: 100px;
 
 .profile{
     margin: 50px;
+    width: 50%;
+    margin: 50px auto 200px auto;
 }
 .profile-img{
-    width: 15%;
+    width: 30%;
     margin-bottom: 30px;
+    float: right;
+}
+.profile h2{
+    padding-top: 30px;
 }
 
 .skill-row{
